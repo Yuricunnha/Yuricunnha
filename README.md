@@ -1,4 +1,7 @@
-### Hi there 👋
+Olá Me chamo Yuri Cunha!
+Curso Ciencias da computação!
+E atualmente faço parte do NExT
+Cesar School!
 
 <!--
 **Yuricunnha/Yuricunnha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
